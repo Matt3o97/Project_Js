@@ -1,0 +1,220 @@
+* {
+    font-family: 'Urbanist', sans-serif;
+}
+
+.mt-custom {
+    margin-top: 100px;
+}
+
+/* Navbar */
+#navbar {
+    transition: .5s;
+    position: sticky;
+    top: 0px;
+    z-index: 2;
+}
+header {
+    background-color:#f1f5f9;
+    border-radius: 15px;
+}
+
+
+.btn-primary-custom {
+    background-color: #2a2a2a;
+    padding: 5px, 10px;
+    border: 2px solid #2a2a2a;
+    color: #ececec;
+}
+
+.btn-primary-custom:hover {
+    background-color: #ffffff !important;
+    border: 2px solid #2a2a2a;
+    color: #2a2a2a !important;
+}
+
+.card-custom {
+    width: 250px;
+    height: 250px;
+}
+
+.card-custom2 {
+    justify-content: center;
+    
+}
+.width-card {
+    width: 100%;
+}
+/* section ultimi annunci */
+
+
+.product-card-custom {
+    border: 2px solid #ececec;
+    padding: 20px;
+    width: 100%;
+    max-width: 296px;
+    border-radius: 25px;
+}
+
+.price-tag {
+    background-color: #ececec;
+    padding: 8px 10px;
+    border-radius: 10px;
+    font-weight: bold;
+}
+
+.icon-container > i {
+    cursor: pointer;
+    color: #2a2a2a;
+}
+
+.icon-container {
+    display: flex;
+    justify-content: end;
+}
+
+.announcements-container {
+    background-color: #f1f5f9;
+    border-radius: 50px;
+    height: 60vh;
+    min-height: 500px;
+}
+
+/* review section */
+
+.review-card {
+    border: 2px solid #ececec;
+    padding: 30px;
+    border-radius: 25px;
+    height: 30vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.star-container > i {
+    font-size: larger;
+}
+
+/* swiper */
+.swiper {
+width: 100%;
+padding-top: 50px;
+padding-bottom: 50px;
+}
+
+.swiper-slide {
+background-position: center;
+background-size: cover;
+/* width: 300px;
+height: 300px; */
+}
+
+/* carousel */
+.img-carousel-1 {
+    height: 70vh;
+    object-fit: cover;
+}
+.img-carousel-2 {
+    height: 70vh;
+
+}
+.img-carousel-3 {
+    height: 70vh;
+    
+}
+
+.cornice2 {
+    border: solid 4px black;
+    border-radius: 50%;
+    width: 275px;
+    height: 275px;
+}
+
+.box-foto-piccola2 {
+    border-radius: 50%;
+    width: 250px;
+    height: 250px;
+}
+
+.asus {
+    background-image: url(./media/asus.png);
+    background-size: 135%;
+    background-position: center;
+}
+
+.ryzen {
+    background-image: url(./media/zotac_gaming_logo.png);
+    background-size: 120%;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+/* GLITCH */
+
+.glitch-wrapper {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    
+}
+
+.glitch {
+    position: relative;
+    font-size: 50px;
+    font-weight: 700;
+    line-height: 1.2;
+    color: #ffffff;
+    letter-spacing: 4px;
+    z-index: 1;
+}
+
+.glitch:before,
+.glitch:after {
+    display: block;
+    content: attr(data-glitch);
+    position: absolute;
+    top: 0;
+    left: 0;
+    opacity: 0.8;
+}
+
+.glitch:before {
+    animation: glitch-color 1.0s cubic-bezier(0.25, 0.46, 0.45, 0.94) both infinite;
+    color: rgb(3, 82, 219);
+    z-index: -1;
+}
+
+.glitch:after {
+    animation: glitch-color 1.0s cubic-bezier(0.25, 0.46, 0.45, 0.94) reverse both infinite;
+    color: #f900f9;
+    z-index: -2;
+}
+ 
+ @keyframes glitch-color {
+    0% {
+       transform: translate(0);
+    }
+ 
+    20% {
+       transform: translate(-3px, 3px);
+    }
+ 
+    40% {
+       transform: translate(-3px, -3px);
+    }
+ 
+    60% {
+       transform: translate(3px, 3px);
+    }
+ 
+    80% {
+       transform: translate(3px, -3px);
+    }
+ 
+    to {
+       transform: translate(0);
+    }
+ }

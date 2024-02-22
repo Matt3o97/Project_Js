@@ -1,0 +1,379 @@
+[
+    {
+        "id":1,
+        "name": "Asus Prime B760-PLUS D4",
+        "category": "Schede Madri",
+        "price": "120",
+        "url" : "https://thumb.pccomponentes.com/w-530-530/articles/1064/10647738/1800-asus-prime-b760-plus-d4.jpg"
+    },
+    {
+        "id": 2,
+        "name": "AMD Ryzen 7",
+        "category": "Processori",
+        "price": "481.94",
+        "url" : "https://thumb.pccomponentes.com/w-530-530/articles/1066/10665103/1575-amd-ryzen-7-7800x3d-42-ghz-5-ghz.jpg"
+
+    },
+    {
+        "id": 3,
+        "name": "Western Digital Black",
+        "category": "Hard Disk",
+        "price": "128.19",
+        "url" : "https://thumb.pccomponentes.com/w-530-530/articles/1006/10060348/1635-wd-black-sn770-2tb-nvme-ssd.jpg"
+
+    },
+    {
+        "id": 4,
+        "name": "MSI GeForce RTX 3060",
+        "category": "Schede Grafiche",
+        "price": "312.20",
+        "url" : "https://thumb.pccomponentes.com/w-530-530/articles/35/357848/1157-msi-geforce-rtx-3060-ventus-2x-oc-12gb-gddr6.jpg"
+
+    },
+    {
+        "id": 5,
+        "name": "Corsair Vengeance",
+        "category": "Memorie Ram",
+        "price": "120.30",
+        "url" : "https://thumb.pccomponentes.com/w-530-530/articles/1071/10711396/1323-corsair-vengeance-rgb-ddr5-6000mhz-pc5-48000-32gb-2x16gb-cl36-negro.jpg"
+
+    },
+    {
+        "id": 6,
+        "name": "Creative Sound BlasterX",
+        "category": "Schede Audio",
+        "price":"150",
+        "url" : "https://thumb.pccomponentes.com/w-530-530/articles/30/309881/1807-creative-sound-blasterx-ae-5-plus-tarjeta-de-sonido.jpg"
+
+    },
+    {
+        "id": 7,
+        "name": "Forgeon Tiberium",
+        "category": "Computer Case",
+        "price":"200.50",
+        "url" : "https://thumb.pccomponentes.com/w-530-530/articles/1067/10673558/123-forgeon-tiberium-argb-cristal-templado-usb-30-negra-opiniones.jpg"
+
+    },
+    {
+        "id": 8,
+        "name": "Forgeon Azoth 360",
+        "category": "Dissipatori",
+        "price": "180",
+        "url" : "https://thumb.pccomponentes.com/w-530-530/articles/1019/10190545/1315-forgeon-azoth-360-argb-kit-de-refrigeracion-liquida-negro.jpg"
+
+    },
+    {
+        "id": 9,
+        "name": "Tempest PSU PRO 650W",
+        "category": "Alimentatori",
+        "price": "60.50",
+        "url" : "https://thumb.pccomponentes.com/w-530-530/articles/40/409505/1562-tempest-gaming-psu-pro-650w-80-plus-bronce.jpg"
+
+    },
+    {
+        "id": 10,
+        "name": "Asrock Z790 Pro",
+        "category": "Shede Madri",
+        "price": "289.30",
+        "url" : "https://thumb.pccomponentes.com/w-530-530/articles/1072/10729363/156-asrock-z790-pro-rs-wifi.jpg"
+
+    },
+    {
+        "id": 11,
+        "name": "Intel Core i7-14700K",
+        "category": "Processori",
+        "price": "480",
+        "url" : "https://thumb.pccomponentes.com/w-530-530/articles/1077/10779171/1341-intel-core-i7-14700k-34-56ghz-box.jpg"
+
+    },
+    {
+        "id": 12,
+        "name": "Lettore/Scrittore USB",
+        "category": "Multilettori",
+        "price": "44.50",
+        "url" : "https://thumb.pccomponentes.com/w-530-530/articles/27/278971/startech-lector-grabador-tarjetas-de-memoria-flash-usb-30-cfast-20.jpg"
+
+    },
+    {
+        "id": 13,
+        "name": "Exceria Pro 2TB",
+        "category": "Hard Disk",
+        "price": "157",
+        "url" : "https://thumb.pccomponentes.com/w-530-530/articles/75/755130/1189-kioxia-exceria-pro-unidad-ssd-2tb-nvme-m2-2280-mejor-precio.jpg"
+
+    },
+    {
+        "id": 14,
+        "name": "GeForce RTX 4070",
+        "category": "Schede Grafiche",
+        "price": "650",
+        "url" : "https://thumb.pccomponentes.com/w-530-530/articles/1070/10706592/1556-gigabyte-geforce-rtx-4070-windforce-oc-12gb-gddr6x-dlss3.jpg"
+
+    },
+    {
+        "id": 15,
+        "name": "GeForce RTX 4090",
+        "category": "Schede Grafiche",
+        "price": "2318",
+        "url" : "https://thumb.pccomponentes.com/w-530-530/articles/1059/10594905/1720-msi-geforce-rtx-4090-gaming-x-trio-24gb-gddr6x.jpg"
+
+    },
+    {
+        "id": 16,
+        "name": "Delta RGB DDR4",
+        "category": "Memorie Ram",
+        "price": "55",
+        "url" : "https://thumb.pccomponentes.com/w-530-530/articles/35/356988/1881-team-group-delta-rgb-ddr4-3200-pc4-25600-16gb-2x8gb-cl16-blanco.jpg"
+
+    },
+    {
+        "id": 17,
+        "name": "Corsair iCUE 4000D",
+        "category": "Computer Case",
+        "price": "170",
+        "url" : "https://thumb.pccomponentes.com/w-530-530/articles/1066/10660344/1498-corsair-icue-4000d-rgb-airflow-cristal-templado-usb-32-blanca.jpg"
+
+    },
+    {
+        "id": 18,
+        "name": "Nox Hummer",
+        "category": "Computer Case",
+        "price": "140",
+        "url" : "https://thumb.pccomponentes.com/w-530-530/articles/13/133287/nox-hummer-tgx-main02-rainbow.jpg"
+
+    },
+    {
+        "id": 19,
+        "name": "AMD Ryzen 9",
+        "category": "Processori",
+        "price": "573.50",
+        "url" : "https://thumb.pccomponentes.com/w-530-530/articles/1057/10570012/1241-amd-ryzen-9-7900x-sin-cooler-47-ghz-box-sin-ventilador-comprar.jpg"
+
+    },
+
+    {
+        "id": 21,
+        "name": "Intel Core i5",
+        "category": "Processori",
+        "price": "150",
+        "url" : "https://thumb.pccomponentes.com/w-530-530/articles/36/362366/1598-intel-core-i5-11400-26-ghz.jpg"
+
+    },
+    {
+        "id": 22,
+        "name": "Liquid Cooler 360 ",
+        "category": "Dissipatori",
+        "price": "105",
+        "url" : "https://thumb.pccomponentes.com/w-530-530/articles/1079/10793239/1847-tempest-liquid-cooler-360-rgb-kit-de-refrigeracion-liquida-blanco-review.jpg"
+
+    },
+    {
+        "id": 23,
+        "name": "Sound Blaster Z SE",
+        "category": "Schede Audio",
+        "price": "70",
+        "url" : "https://thumb.pccomponentes.com/w-530-530/articles/35/350971/1676-creative-sound-blaster-z-se-tarjeta-de-sonido-y-dac-pci-e-para-juegos-review.jpg"
+
+    },
+    {
+        "id": 24,
+        "name": "Tempest PSU",
+        "category": "Alimentatori",
+        "price": "50",
+        "url" : "https://thumb.pccomponentes.com/w-530-530/articles/17/179285/4.jpg"
+
+    },
+    {
+        "id": 25,
+        "name": "ASUS TUF",
+        "category": "Shede Madri",
+        "price": "163.93",
+        "url" : "https://thumb.pccomponentes.com/w-530-530/articles/1064/10647743/1188-asus-tuf-gaming-b760m-plus-wifi-d4.jpg"
+
+    },
+    {
+        "id": 26,
+        "name": "Lettore di schede ",
+        "category": "Multilettori",
+        "price": "8.50",
+        "url" : "https://thumb.pccomponentes.com/w-530-530/articles/1079/10792328/1648-vention-lector-de-tarjetas-externo-usb-30.jpg"
+
+    },
+    {
+        "id": 27,
+        "name": "Corsair MP600",
+        "category": "Hard Disk",
+        "price": "150",
+        "url" : "https://thumb.pccomponentes.com/w-530-530/articles/1069/10696896/1102-corsair-mp600-core-xt-2-tb-gen4-pcie-x4-nvme-m2.jpg"
+
+    },
+    {
+        "id": 28,
+        "name": "AMD Ryzen 5",
+        "category": "Processori",
+        "price": "204.20",
+        "url" : "https://thumb.pccomponentes.com/w-530-530/articles/32/328475/1101-amd-ryzen-5-5600x-37ghz.jpg"
+
+    },
+    {
+        "id": 29,
+        "name": "Nox Hummer",
+        "category": "Computer Case",
+        "price": "80.30",
+        "url" : "https://thumb.pccomponentes.com/w-530-530/articles/1003/10031041/1392-nox-hummer-nemesis-argb-cristal-templado-usb-30-blanca.jpg"
+
+    },
+    {
+        "id": 30,
+        "name": "Corsair Vengeance ",
+        "category": "Memorie Ram",
+        "price": "120",
+        "url" : "https://thumb.pccomponentes.com/w-530-530/articles/1071/10711396/1323-corsair-vengeance-rgb-ddr5-6000mhz-pc5-48000-32gb-2x16gb-cl36-negro.jpg"
+
+    },
+    {
+        "id": 31,
+        "name": "Gigabyte M32UC",
+        "category": "Monitor",
+        "price": "550",
+        "url" : "https://thumb.pccomponentes.com/w-530-530/articles/1046/10468895/135-gigabyte-m32uc-315-led-ultrahd-4k-160hz-freesync-premium-pro-curva.jpg"
+
+    },
+    {
+        "id": 32,
+        "name": "PowerColor Hellhound",
+        "category": "Schede Grafiche",
+        "price": "433",
+        "url" : "https://thumb.pccomponentes.com/w-530-530/articles/1077/10774638/1467-powercolor-hellhound-amd-radeon-rx-7700-xt-12gb-gddr6.jpg"
+
+    },
+    {
+        "id": 33,
+        "name": "HP X27qc Monitor",
+        "category": "Monitor",
+        "price": "230.15",
+        "url" : "https://thumb.pccomponentes.com/w-530-530/articles/57/578273/3443-hp-x27qc-27-led-qhd-165hz-freesync-premium-curva-mejor-precio.jpg"
+
+    },
+    {
+        "id": 34,
+        "name": "MSI MPG",
+        "category": "Computer Case",
+        "price": "118",
+        "url" : "https://thumb.pccomponentes.com/w-530-530/articles/30/300828/1695-msi-mpg-gungnir-110r-cristal-templado-usb-30-argb-negro-f229f6d6-b3b5-4813-9e3e-3efaa70f31c2.jpg"
+
+    },
+    {
+        "id": 35,
+        "name": "MSI MPG B550",
+        "category": "Shede Madri",
+        "price": "170",
+        "url" : "https://thumb.pccomponentes.com/w-530-530/articles/30/302203/1879-msi-mpg-b550-gaming-plus.jpg"
+
+    },
+
+    {
+        "id": 37,
+        "name": "Samsung Odyssey",
+        "category": "Monitor",
+        "price": "350",
+        "url" : "https://thumb.pccomponentes.com/w-530-530/articles/1064/10643499/1856-samsung-odyssey-g6-ls27bg650euxen-27-led-qhd-240hz-freesync-premium-pro-curva-review.jpg"
+
+    },
+    {
+        "id": 38,
+        "name": "AMD Ryzen 7 ",
+        "category": "Processori",
+        "price": "486",
+        "url" : "https://thumb.pccomponentes.com/w-530-530/articles/42/422968/1315-amd-ryzen-7-5700g-46ghz.jpg"
+
+    },
+    {
+        "id": 39,
+        "name": "Lettore di schede USB",
+        "category": "Multilettori",
+        "price": "18.50",
+        "url" : "https://thumb.pccomponentes.com/w-530-530/articles/1028/10282980/1425-approx-appcrdnib-lector-de-tarjetas-usb-20.jpg"
+
+    },
+    {
+        "id": 40,
+        "name": "Ventola CPU Tempest ",
+        "category": "Dissipatori",
+        "price": "50",
+        "url" : "https://thumb.pccomponentes.com/w-530-530/articles/1063/10633503/1475-tempest-cooler-4pipes-2x120mm-rgb-ventilador-cpu-blanco-opiniones.jpg"
+
+    },
+    {
+        "id": 41,
+        "name": "HP M22f Monitor",
+        "category": "Monitor",
+        "price": "110",
+        "url" : "https://thumb.pccomponentes.com/w-530-530/articles/57/579884/2923-hp-m22f-215-ips-fullhd-75hz-freesync-comprar.jpg"
+
+    },
+    {
+        "id": 42,
+        "name": "WD Elements 5TB ",
+        "category": "Hard Disk",
+        "price": "137",
+        "url" : "https://thumb.pccomponentes.com/w-530-530/articles/28/289295/wd-elements-5tb-25-usb-30.jpg"
+
+    },
+    {
+        "id": 43,
+        "name": "Corsair Dominator",
+        "category": "Memorie Ram",
+        "price": "258.03",
+        "url" : "https://thumb.pccomponentes.com/w-530-530/articles/1066/10669992/1870-corsair-dominator-platinum-rgb-ddr5-5600mhz-64gb-2x32gb-cl40-blanca.jpg"
+
+    },
+    {
+        "id": 44,
+        "name": "Philips",
+        "category": "Monitor",
+        "price": "271",
+        "url" : "https://thumb.pccomponentes.com/w-530-530/articles/1066/10664536/1971-philips-evnia-27m2c5500w-27-led-qhd-240hz-freesync-premium-pro-curva.jpg"
+
+    },
+    {
+        "id": 45,
+        "name": "Nfortec Nervia",
+        "category": "Computer Case",
+        "price": "80.55",
+        "url" : "https://thumb.pccomponentes.com/w-530-530/articles/1048/10488381/2321-nfortec-nervia-black-argb-cristal-templado-usb-30-negra-comprar.jpg"
+
+    },
+    {
+        "id": 46,
+        "name": "Gigabyte GeForce",
+        "category": "Schede Grafiche",
+        "price": "910",
+        "url" : "https://thumb.pccomponentes.com/w-530-530/articles/1070/10708163/1122-gigabyte-geforce-rtx-4070-ti-windforce-oc-12gb-gddr6x.jpg"
+
+    },
+    {
+        "id": 47,
+        "name": "Forgeon Bolt ",
+        "category": "Alimentatori",
+        "price": "150",
+        "url" : "https://thumb.pccomponentes.com/w-530-530/articles/43/433847/1664-forgeon-bolt-psu-750w-80-plus-gold-full-modular-comprar.jpg"
+
+    },
+    {
+        "id": 48,
+        "name": "MSI Optix",
+        "category": "Monitor",
+        "price": "220",
+        "url" : "https://thumb.pccomponentes.com/w-530-530/articles/1064/10642442/1379-msi-optix-g32cq4-e2-315-led-wqhd-170hz-freesync-premium-curva.jpg"
+
+    },
+    {
+        "id": 49,
+        "name": "Torre ATX",
+        "category": "Computer Case",
+        "price": "70,99",
+        "url" : "https://thumb.pccomponentes.com/w-530-530/articles/38/386829/2697-tempest-shade-rgb-torre-atx-negra-review.jpg"
+
+    }
+]
